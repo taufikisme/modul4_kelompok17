@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MODUL4_KEL17_PY", "MODUL4_KEL17_PY\MODUL4_KEL17_PY.pyproj", "{631C47FD-870D-4F0D-B33F-6AD47C42D7F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{631C47FD-870D-4F0D-B33F-6AD47C42D7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631C47FD-870D-4F0D-B33F-6AD47C42D7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8305D400-27B0-40AB-BB78-8A22883625CB}
+	EndGlobalSection
+EndGlobal
